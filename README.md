@@ -4,7 +4,7 @@ Object Tcp Server
 
 1. How to Install
 
-![Nuget Install](/img/nuget.png);
+![Nuget Install](/nuget.png);
 
 
 
